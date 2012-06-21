@@ -1,0 +1,139 @@
+html {
+    min-width: 1040px;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,sans-serif;
+    margin: 1em auto 4em;
+    position: relative;
+    width: 960px;
+}
+h1 {
+    font-size: 64px;
+    font-weight: 300;
+    letter-spacing: -2px;
+    margin: 0.3em 0 0.1em;
+}
+h2 {
+    margin-top: 2em;
+}
+h1, h2 {
+    text-rendering: optimizelegibility;
+}
+h2 a {
+    color: #CCCCCC;
+    left: -20px;
+    position: absolute;
+    width: 740px;
+}
+footer {
+    font-size: small;
+    margin-top: 8em;
+}
+header aside {
+    margin-top: 82px;
+}
+header aside, footer aside {
+    color: #636363;
+    text-align: right;
+}
+aside {
+    font-size: small;
+    left: 780px;
+    position: absolute;
+    width: 180px;
+}
+.attribution {
+    font-size: small;
+    margin-bottom: 2em;
+}
+body > p, li > p {
+    line-height: 1.5em;
+}
+body > p {
+    width: 720px;
+}
+body > blockquote {
+    width: 640px;
+}
+li {
+    width: 680px;
+}
+a {
+    color: #A30029;
+}
+a:not(:hover) {
+    text-decoration: none;
+}
+pre, code, textarea {
+    font-family: "Menlo",monospace;
+}
+code {
+    line-height: 1em;
+}
+textarea {
+    font-size: 100%;
+}
+body > pre {
+    border-left: 2px solid #CCCCCC;
+    margin: 2em 0 2em -20px;
+    padding-left: 18px;
+}
+.html .value, .javascript .string, .javascript .regexp {
+    color: #756BB1;
+}
+.html .tag, .css .tag, .javascript .keyword {
+    color: #3182BD;
+}
+.comment {
+    color: #636363;
+}
+.html .doctype, .javascript .number {
+    color: #31A354;
+}
+.html .attribute, .css .attribute, .javascript .class, .javascript .special {
+    color: #E6550D;
+}
+svg {
+    font: 10px sans-serif;
+}
+.axis path, .axis line {
+    fill: none;
+    shape-rendering: crispedges;
+    stroke: #000000;
+}
+sup, sub {
+    line-height: 0;
+}
+q:before, blockquote:before {
+    content: "“";
+}
+q:after, blockquote:after {
+    content: "”";
+}
+blockquote:before {
+    left: 2em;
+    position: absolute;
+}
+blockquote:after {
+    position: absolute;
+}
+#chart {
+  height: 500px;
+}
+.node rect {
+  cursor: move;
+  fill-opacity: .9;
+  shape-rendering: crispEdges;
+}
+.node text {
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff;
+}
+.link {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .2;
+}
+.link:hover {
+  stroke-opacity: .5;
+}

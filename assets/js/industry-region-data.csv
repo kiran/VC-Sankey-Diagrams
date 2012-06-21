@@ -1,0 +1,86 @@
+region,industry,amount
+Silicon Valley,Software,645M
+Silicon Valley,Consumer Products and Services,267M
+Silicon Valley,Industrial/Energy,210M
+Silicon Valley,Media and Entertainment,200M
+Silicon Valley,IT Services,197M
+Silicon Valley,Biotechnology,125M
+Silicon Valley,Medical Devices and Equipment,121M
+Silicon Valley,Semiconductors,114M
+Silicon Valley,Telecommunications,85M
+Silicon Valley,Networking and Equipment,33M
+Silicon Valley,Financial Services,26M
+Silicon Valley,Business Products and Services,23M
+Silicon Valley,Electronics/Instrumentation,21M
+Silicon Valley,Computers and Peripherals,8M
+Silicon Valley,Retailing/Distribution,5M
+Silicon Valley,Other,1M
+New England,Biotechnology,176M
+New England,Medical Devices and Equipment,159M
+New England,Software,111M
+New England,Industrial/Energy,99M
+New England,Semiconductors,49M
+New England,Retailing/Distribution,15M
+New England,Networking and Equipment,15M
+New England,Consumer Products and Services,14M
+New England,IT Services,14M
+New England,Media and Entertainment,12M
+New England,Healthcare Services,10M
+New England,Telecommunications,3M
+New England,Electronics/Instrumentation,0.4M
+New England,Other,0.2M
+LA/Orange County,Industrial/Energy,182M
+LA/Orange County,Medical Devices and Equipment,169M
+LA/Orange County,Software,82M
+LA/Orange County,Consumer Products and Services,71M
+LA/Orange County,Biotechnology,13M
+LA/Orange County,Retailing/Distribution,9M
+LA/Orange County,Media and Entertainment,8M
+LA/Orange County,Telecommunications,8M
+LA/Orange County,IT Services,7M
+LA/Orange County,Electronics/Instrumentation,7M
+LA/Orange County,Business Products and Services,5M
+LA/Orange County,Semiconductors,3M
+LA/Orange County,Networking and Equipment,2M
+LA/Orange County,Healthcare Services,2M
+Texas,Software,197M
+Texas,Medical Devices and Equipment,62M
+Texas,Computers and Peripherals,33M
+Texas,Biotechnology,33M
+Texas,Industrial/Energy,32M
+Texas,IT Services,13M
+Texas,Semiconductors,9M
+Texas,Electronics/Instrumentation,4M
+Texas,Media and Entertainment,2M
+Texas,Healthcare Services,1M
+Texas,Business Products and Services,1M
+Texas,Financial Services,1M
+Texas,Networking and Equipment,0.4M
+NY Metro,Software,91M
+NY Metro,Media and Entertainment,58M
+NY Metro,Biotechnology,55M
+NY Metro,Industrial/Energy,47M
+NY Metro,Telecommunications,41M
+NY Metro,IT Services,32M
+NY Metro,Financial Services,22M
+NY Metro,Business Products and Services,19M
+NY Metro,Retailing/Distribution,8M
+NY Metro,Medical Devices and Equipment,6M
+NY Metro,Consumer Products and Services,1M
+San Diego,Biotechnology,170M
+San Diego,Industrial/Energy,139M
+San Diego,Consumer Products and Services,27M
+San Diego,Medical Devices and Equipment,13M
+San Diego,IT Services,7M
+San Diego,Media and Entertainment,1M
+Midwest,Software,87M
+Midwest,Medical Devices and Equipment,76M
+Midwest,Media and Entertainment,46M
+Midwest,Telecommunications,30M
+Midwest,Biotechnology,19M
+Midwest,Industrial/Energy,16M
+Midwest,Semiconductors,10M
+Midwest,Electronics/Instrumentation,2M
+Midwest,IT Services,0.275M
+Midwest,Business Products and Services,0.035M
+Midwest,Financial Services,0.025M
